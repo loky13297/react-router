@@ -13,7 +13,7 @@ import { fakeAuthProvider } from "./auth";
 export default function App() {
   return (
     <AuthProvider>
-      <h1>Auth Example</h1>
+      {/* <h1>Auth Example</h1> */}
 
       <p>
         This example demonstrates a simple login flow with three pages: a public
